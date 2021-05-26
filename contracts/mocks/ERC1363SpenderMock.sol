@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.6.0;
+pragma solidity ^0.8.4;
 
 import "erc-payable-token/contracts/token/ERC1363/IERC1363Spender.sol";
 
