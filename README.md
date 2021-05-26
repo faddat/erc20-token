@@ -1,4 +1,8 @@
-# ERC20 Token
+# don't use this
+
+the original author took it down, and I do not know why. It is a backup for something I am helping out with.
+
+### ERC20 Token
 
 [![NPM Package](https://img.shields.io/npm/v/@vittominacori/erc20-token.svg?style=flat-square)](https://www.npmjs.com/package/@vittominacori/erc20-token)
 [![Build Status](https://travis-ci.org/vittominacori/erc20-token.svg?branch=master)](https://travis-ci.org/vittominacori/erc20-token)
