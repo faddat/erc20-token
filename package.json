@@ -78,7 +78,7 @@
     "web3": "^1.2.8"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "3.0.1",
+    "@openzeppelin/contracts": "4.9.6",
     "erc-payable-token": "3.0.5",
     "eth-token-recover": "3.0.3"
   }
